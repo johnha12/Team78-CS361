@@ -14,4 +14,4 @@ Recieving a response have similar steps as sending a request. Make sure you have
 2. Make sure fortuneMicroservice.py is running in the background.
 3. import time and use sleep(1) in between request and response. This is due to microservice needing to write fortune and return response.
 
-![alt text](https://github.com/johnha12/Team78-CS361/blob/main/image2.png?raw=true)
+![alt text](https://github.com/johnha12/Team78-CS361/blob/main/IMG_0433.HEIC?raw=true)
